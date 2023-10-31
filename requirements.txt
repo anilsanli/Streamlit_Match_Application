@@ -1,4 +1,4 @@
-streamlit
+streamlit==23.3.1
 random
 pandas
 numpy
